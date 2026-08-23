@@ -6,6 +6,7 @@ Built the interactive Power BI dashboard
 Screenshots of the report are added: 1.TicketPriceReport and 2. FlightDurationReport
 
 #Possible Use Cases
+
 Exploratory Data Analysis (EDA): Ticket price trends, passenger age distribution, duration vs distance analysis.
 Visualization: Compare average ticket prices by airline, travel class, or city.
 Machine Learning: Predict ticket prices, estimate flight duration, or analyze customer behavior.
