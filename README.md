@@ -12,5 +12,6 @@ Exploratory Data Analysis (EDA): Ticket price trends, passenger age distribution
 Visualization: Compare average ticket prices by airline, travel class, or city.
 
 Machine Learning: Predict ticket prices, estimate flight duration, or analyze customer behavior.
+
 Business Insights: Identify most common payment methods, popular routes, and preferred travel classes.
 
